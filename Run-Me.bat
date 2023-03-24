@@ -33,7 +33,7 @@ Echo Y | REG ADD HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsU
 
 echo Windows Updating...
 
-Powershell "" .\windowsupdate.ps1
+Powershell "" .\windows-update.ps1
 :: Run the windowsupdate.ps1 PowerShell script
 
 :: Remove the Windows Update target release version and product version registry entries
