@@ -1,5 +1,5 @@
 # BATCH-PS-Old-USB-Update
-This is the old method of updating completing an in-place update. This is a simple script that updates Windows feature updates and also updated Adobe Acrobat.
+This is the old method of completing an in-place update. This is a simple script that updates Windows feature updates and also updated Adobe Acrobat.
 
 This script updates Adobe Acrobat Reader DC and then updates Windows to a specified target release version and product version. The script is intended to be run as an administrator.
 
