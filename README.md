@@ -4,8 +4,8 @@ This is the old method of updating completing an in-place update. This is a simp
 This script updates Adobe Acrobat Reader DC and then updates Windows to a specified target release version and product version. The script is intended to be run as an administrator.
 
 # Usage
-Download the windows-update.bat and windows-update.ps1 files from this repository.
-Run windows-update.bat as an administrator.
+Download the Run-Me.bat and windows-update.ps1 files from this repository.
+Run Run-Me.bat as an administrator.
 Script Details
 
 # The script performs the following actions:
